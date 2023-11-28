@@ -1,0 +1,23 @@
+Report created: 
+	28/11/2023	17:44:44
+
+Project name: Owl anim.aep
+
+Source files collected to: 
+	C:\Users\Fluke\Desktop\Mobile_Applications\Assets\Owl anim folder
+
+Source files collected: All
+
+Collected comps:  
+	HootAppIcon
+	
+Number of collected files:  1
+
+Size of collected files:  1.4 MB
+
+Collected source files: 
+	C:\Users\Fluke\Desktop\Mobile_Applications\Assets\Vectors\HootAppIcon.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
